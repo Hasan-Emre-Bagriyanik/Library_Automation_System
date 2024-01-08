@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/views/PKitapGoruntule.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>658</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/AAnasayfa.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/VeritabaniBaglayici.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/IliskiselVeritabaniBaglayicisi.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/PKitapGoruntule.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/PYazarIslemleri.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/PYazarGoruntule.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/resultmodels/CezalarResultModel.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/MySQLBaglantisi.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/VeritabaniBilgileri.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/models/oduncalma/OduncAlmaModel.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/models/kullanici/KullaniciModel.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/PYazarEkle.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/cache/KullaniciCache.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/KutuphaneIslemleri.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/PersonelAnasayfa.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/OProfil.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/Login.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/POduncVerme.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/OCeza.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/AIadeIslemleri.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/OIadeIslemleri.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/views/POduncTakip.java</file>
+            <file>file:/C:/Users/Hasan%20Emre/Documents/Java%20Denemeleri/KutuphaneYonetimSistemi/KutuphaneYonetimSistemi/src/service/VeritabaniPlatformu.java</file>
+        </group>
+    </open-files>
+</project-private>
